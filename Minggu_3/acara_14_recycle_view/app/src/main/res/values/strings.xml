@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">recylce_view</string>
+    <string-array name="countries_arry">
+        <item>afganistan</item>
+        <item>albania</item>
+        <item>algeria</item>
+        <item>american samoa</item>
+        <item>andorra</item>
+        <item>angola</item>
+        <item>anguilla</item>
+        <item>antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>argentina</item>
+        <item>armenia</item>
+        <item>aruba</item>
+        <item>australia</item>
+        <item>austria</item>
+        <item>azerbaijan</item>
+        <item>bahrain</item>
+        <item>bangladesh</item>
+        <item>barbados</item>
+        <item>belarus</item>
+        <item>belgium</item>
+    </string-array>
+</resources>
