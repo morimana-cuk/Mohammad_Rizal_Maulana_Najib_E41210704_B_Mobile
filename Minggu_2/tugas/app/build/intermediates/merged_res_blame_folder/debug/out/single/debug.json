@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_material_design.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_material_design.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_frame_layout.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_frame_layout.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_tabel_layout.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_tabel_layout.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_relative_layout.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_relative_layout.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_linear_layout.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_linear_layout.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_constraint_layout.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_constraint_layout.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_scorllview_horizontal.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_scorllview_horizontal.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/layout_activity_scroll_view.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/layout/activity_scroll_view.xml"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/cuk/.gradle/daemon/7.5/com.example.myapplication.app-main-31:/xml/data_extraction_rules.xml"
+    }
+]
