@@ -10,69 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06e14d4-bff8-4d47-b2a4-e909feffb8b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Minggu_2/acara_10_Frame_Layout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu_2/acara_10_Frame_Layout/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_2/acara_12_Material_Design/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu_2/acara_12_Material_Design/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/androidTest/java/com/example/recylce_view/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/java/com/example/recylce_view/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/menu/list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/app/src/test/java/com/example/recylce_view/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/consumer-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/src/androidTest/java/com/example/mylibrary/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary/src/test/java/com/example/mylibrary/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/consumer-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/src/androidTest/java/com/example/mylibrary2/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/mylibrary2/src/test/java/com/example/mylibrary2/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_3/acara_14_recycle_view/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_5/Acara_22_Intent/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu_5/Acara_22_Intent/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Minggu_5/Acara_23_Intent_Explicit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu_5/Acara_23_Intent_Explicit/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pertemuan_1/tes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
